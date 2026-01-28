@@ -29,7 +29,9 @@ Pastikan server memenuhi syarat berikut:
 ```text
 
 curl -O https://raw.githubusercontent.com/ng1nxx/Scripting/refs/heads/main/Install_azure.sh
+
 sudo chmod +x Install_azure.sh
+
 ./Install_azure.sh
 
 ```
